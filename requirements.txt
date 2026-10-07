@@ -1,0 +1,6 @@
+streamlit>=1.49
+pandas>=2.2
+numpy
+pymysql
+SQLAlchemy
+streamlit-cookies-controller
